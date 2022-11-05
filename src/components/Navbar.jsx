@@ -55,9 +55,10 @@ const Navbar = () => {
                   : "text-xl font-medium text-decoration-none whitespace-nowrap text-white"
               }
             >
-            <img src="https://t3.ftcdn.net/jpg/04/24/09/12/360_F_424091268_T6hxUVIRZ7hAWh4HL90Dn53HOHN7sFQB.jpg" 
+            <img src="https://t3.ftcdn.net/jpg/04/24/09/12/360_F_424091268_T6hxUVIRZ7hAWh4HL90Dn53HOHN7sFQB.jpg" alt=""
             style={{height:"50px", width:"50px", marginTop:"0px"}}/>
-            </a><a  className={
+            </a>
+            <a href="/" className={
                 darkMode
                   ? "text-xl font-medium text-decoration-none whitespace-nowrap text-black"
                   : "text-xl font-medium text-decoration-none whitespace-nowrap text-white"

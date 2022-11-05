@@ -4,7 +4,7 @@ import Typical from "react-typical";
 import { contactLinks } from "../constants";
 import { ThemeContext } from "../themeProvider";
 import { motion } from "framer-motion";
-import { Link } from "react-scroll";
+// import { Link } from "react-scroll";
 import dlight from "../assets/green.jpeg";
 import dblue from "../assets/blue.jpg";
 

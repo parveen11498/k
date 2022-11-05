@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { projects1 } from '../constants/constants';
-import { ExternalLinks, Tag, TagList, TitleContent, UtilityList, } from './ProjectsStyles';
+import { ExternalLinks, Tag, TagList, UtilityList, } from './ProjectsStyles';
 
 const Card1 = () => {
   return (
